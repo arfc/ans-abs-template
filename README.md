@@ -1,6 +1,7 @@
 # ans-abs-template
 
-Template for the American Nuclear Society Annual Meeting, Winter Meeting, and Student Conference abstracts.
+Template for the American Nuclear Society Annual Meeting, Winter Meeting, and 
+Student Conference abstracts.
 
 
 ### Instructions
